@@ -1,4 +1,4 @@
-# Optimisation of Scilab instances on server (May 2017- July2017)
+# Optimisation of Scilab instances on server (May - July2017)
 ### Contributers - Meghana Anvekar, Divakar Thammishetti and Sumanth Pole
 
 Scilab Textbook Companion (TBC) is one of the flagship activities undertaken by FOSSEE, IIT Bombay. It
