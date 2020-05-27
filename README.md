@@ -10,5 +10,5 @@ Unlike other scripting languages, Scilab (scilab-adv-cli) loads a huge set of li
 background. Knowing that loading Scilab each time can drastically increase the overhead of code
 execution, we optimized the performance of the Scilab instance on cloud by keeping it alive in
 the background.The code from different users is processed by a group of Scilab instances running
-in parallel, in order to reduce the response time in sending back the result.
+in parallel, in order to reduce the response time (by 50%) in sending back the result.
 
